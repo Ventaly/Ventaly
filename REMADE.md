@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Ventaly]! 👋
 
 🎯 **About Me**
 - 🔭 Currently working as a Python Algorithm Engineer.
 - 🌱 Learning and improving skills in **deep learning frameworks** and **large models**.
 - 👨‍💻 Have 2+ years of experience in **Python**, **Java**, and **Go** development.
 - 💡 Passionate about **web scraping**, **algorithms**, and **project standardization**.
-- 🎨 Love solving challenges like **CAPTCHA bypassing** and optimizing **OpenCV-based image processing**.
+- 🎨 Love solving challenges .
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 📫 **Let's Connect**
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Blog: [yourblog.com](https://yourblog.com)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourusername)
+- Email: [zhangx_2022@163.com](mailto:zhangx_2022@163.com)
+- Blog: [jiyan.work](https://www.jiyan.work)
+
 
 ---
 
