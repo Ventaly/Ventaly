@@ -38,7 +38,7 @@
 
 📫 **Let's Connect**
 - Email: [zhangx_2022@163.com](mailto:zhangx_2022@163.com)
-- Blog: [jiyan.work]([https://www.jiyan.work](http://www.jiyan.work/))
+- Blog: [jiyan.work](http://www.jiyan.work/)
 
 
 ---
