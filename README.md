@@ -3,7 +3,7 @@
 🎯 **About Me**
 - 🔭 Currently working as a Python Algorithm Engineer.
 - 🌱 Learning and improving skills in **deep learning frameworks** and **large models**.
-- 👨‍💻 Have 2+ years of experience in **Python**, **Java**, and **Go** development.
+- 👨‍💻 Have 3+ years of experience in **Python**, **Java**, and **Go** development.
 - 💡 Passionate about **web scraping**, **algorithms**, and **project standardization**.
 - 🎨 Love solving challenges .
 
